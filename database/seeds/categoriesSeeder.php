@@ -6,7 +6,7 @@ use Faker\Generator as Faker;
 
 class categoriesSeeder extends Seeder
 {
-    /** COMENTÁRIO RANDOM 2
+    /** novo comentario
      * Run the database seeds.
      *
      * @return void
